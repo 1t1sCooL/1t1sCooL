@@ -21,8 +21,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1t1sCooL&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1t1sCooL&layout=compact&theme=dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1t1sCooL&layout=donut&theme=dark" width="350" />
-<img src="https://metrics.lecoq.io/1t1sCooL?base=&languages=1&languages.sections=most-used&languages.limit=8&theme=dark" />
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=1t1sCooL&show_icons=true&theme=dark" />
+
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=1t1sCooL&layout=compact&theme=dark" />
 - CodeWars: [![](https://www.codewars.com/users/1t1sCooL/badges/micro)](https://www.codewars.com/users/1t1sCooL/)
 - LeetCode: [![LeetCode user 1t1sCooL](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F1t1sCooL%2F&logo=leetcode&logoColor=yellow)](https://leetcode.com/1t1sCooL/)
 - TypeHero: [![TypeHero user @1t1sCooL](https://img.shields.io/endpoint?url=https%3A%2F%2Ftypehero-badge.vercel.app%2Fapi%2Fusers%2F%401t1sCooL%3Ftype%3DsolvedOverTotal&labelColor=%23555555&color=%2397CA00&style=flat-square&label=Solved)](https://typehero.dev/@1t1sCooL/)
