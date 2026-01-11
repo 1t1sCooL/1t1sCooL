@@ -15,7 +15,20 @@
 [![](https://visitcount.itsvg.in/api?id=1t1sCooL&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1t1sCooL&show_icons=true&theme=dark&rank_icon=github" width="400" />
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1t1sCooL&layout=compact&theme=dark" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1t1sCooL&theme=dark" width="400" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1t1sCooL&repo=название-твоего-лучшего-репо&theme=dark" width="400" />
+</p>
+<p align="center">
+  <img src="https://metrics.lecoq.io/1t1sCooL?base=header%2C%20repositories%2C%20metadata&habits=yes&habits_charts=yes&languages=yes&languages_details=percentage&theme=dark" />
+</p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1t1sCooL&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1t1sCooL&theme=dark)
