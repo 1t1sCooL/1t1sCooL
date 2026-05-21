@@ -18,7 +18,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1t1sCooL&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1t1sCooL&theme=dark&count_private=true&v=1)](https://github.com/1t1sCooL)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=1t1sCooL&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1t1sCooL&layout=compact&theme=dark)
 
